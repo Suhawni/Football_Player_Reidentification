@@ -8,24 +8,43 @@ Sample Output
 Project Structure
 
 football_analysis/
+
 ├── input_videos/ # Folder containing input video
+
 │ └── 15sec_input_720p.mp4
+
 ├── models/ # Folder storing trained detection model
+
 │ └── best.pt
+
 ├── output_videos/ # Output folder with result video
+
 │ └── output.avi
+
   └──output_image.png
+  
 ├── tracker_stubs/ # Stored detection results for analysis
+
 │ └── player_detection.pkl
+
 ├── trackers/ # Re-identification & tracking code
+
 │ ├── init.py
+
 │ └── tracker.py
+
 ├── utils/ # Utility functions
+
   ├──init.py
+  
   ├──tracker.py
+  
 ├── main.py # Main entry point to run the pipeline
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
+
 
 How It Works
 
