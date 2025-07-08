@@ -1,0 +1,6 @@
+ultralytics
+supervision
+cv2
+os
+numpy
+pickle
