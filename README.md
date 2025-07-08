@@ -3,7 +3,7 @@ Football Player Tracking & Re-Identification
 This project performs player detection, tracking, and Re-identification from a football match video. It processes the input video to assign each player a unique ID and ensures consistent tracking across frames, even after occlusion or motion.
 
 Sample Output
-![Player Tracking Demo](output_videos\\output_image.png)
+![Player Tracking Demo](output_videos\output_image.png)
 
 Project Structure
 
